@@ -10,6 +10,6 @@ api.get('/', (req, res) => {
     res.end()
 })
 
-api.listen(() => {
-    console.log('Listening on: ', port)
+api.listen(port, () => {
+    console.log('Listening on:', port)
 })
