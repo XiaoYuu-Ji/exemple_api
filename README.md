@@ -1,1 +1,1 @@
-# ⚙️ Apenas uma base de uma API
+# ⚙️ Apenas uma base de API
