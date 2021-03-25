@@ -1,1 +1,1 @@
-# exemple_api
+# ⚙️ Apenas uma base de uma API
